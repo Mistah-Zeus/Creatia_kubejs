@@ -10,6 +10,9 @@ ServerEvents.tags('item', event => {
     event.add('create:crushed_raw_tin', 'create:crushed_raw_tin')
     event.add('create:crushed_raw_tungsten', 'create:crushed_raw_tungsten')
 
+    event.add('c:water_bottle','confluence:bottled_water')
+    event.add('c:water_bottle','minecraft:')
+
     event.add('c:gems/emeralds','confluence:tr_emerald')
     event.add('c:gems/amethyst','confluence:tr_amethyst')
     event.add('c:gems/emeralds','minecraft:emerald')

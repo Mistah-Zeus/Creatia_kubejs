@@ -11,7 +11,7 @@ event
 event
     .getLootTable("confluence:chests/cave_chests")
     .firstPool()
-    .addEntry(LootEntry.of("confluence:life_crystal").withWeight(2))*/
+    .addEntry(LootEntry.of("confluence:life_crystal").withWeight(2))
 
 
     //modify the marine_gravel loot table
@@ -280,4 +280,4 @@ event
 
             return itemEntry
         })
-})
+})*/
