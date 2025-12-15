@@ -280,4 +280,4 @@ event
 
             return itemEntry
         })
-})*/
+}))*/

@@ -1,7 +1,8 @@
 //Visit the wiki for more info - https://kubejs.com/
 
 ServerEvents.recipes(event => {
-  event.recipes.create.mixing('minecraft:diamond', 'minecraft:coal_block')
+/*
+event.recipes.create.mixing('minecraft:diamond', 'minecraft:coal_block')
 event.recipes.create.mixing('minecraft:oak_log', ['minecraft:oak_sapling', 'minecraft:oak_sapling']).heated()
 event.recipes.create.mixing('confulence:ammo_reservation_potion', ['minecraft:oak_sapling', 'minecraft:oak_sapling']).heated()
 event.recipes.create.mixing('confulence:archery_potion', ['minecraft:oak_sapling', 'minecraft:oak_sapling']).heated()
@@ -39,7 +40,7 @@ event.recipes.create.mixing('confulence:thorns_potion', ['minecraft:oak_sapling'
 event.recipes.create.mixing('confulence:titan_potion', ['minecraft:oak_sapling', 'minecraft:oak_sapling']).heated()
 event.recipes.create.mixing('confulence:water_walking_potion', ['minecraft:oak_sapling', 'minecraft:oak_sapling']).heated()
 event.recipes.create.mixing('confulence:wrath_potion', ['minecraft:oak_sapling', 'minecraft:oak_sapling']).heated()
-
+*/
 
 
 
